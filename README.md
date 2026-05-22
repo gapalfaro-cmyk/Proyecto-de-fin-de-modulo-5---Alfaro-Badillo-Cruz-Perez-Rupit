@@ -9,3 +9,6 @@ Beijing PM2.5 Data (UCI).
 
 #Modelos:#
 Regresión con una fuerte componente de dependencia temporal. Aunque no usen modelos autoregresivos formales (ARIMA), deberán construir modelos (como Random Forest o un MLP) utilizando rezagos (lags) de variables climáticas, minimizando el MSE por la naturaleza continua de la dispersión de fluidos.goog_276841544
+
+
+
