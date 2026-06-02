@@ -6,6 +6,8 @@ Predecir la concentración de partículas finas PM2.5 basándose en variables me
 
 ## Base de Datos:
 Beijing PM2.5 Data (UCI).
+Link de explicación
+https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data?utm_source=chatgpt.com
 
 ## Modelos:
 Regresión con una fuerte componente de dependencia temporal. Aunque no usen modelos autoregresivos formales (ARIMA), deberán construir modelos (como Random Forest o un MLP) utilizando rezagos (lags) de variables climáticas, minimizando el MSE por la naturaleza continua de la dispersión de fluidos.goog_276841544
