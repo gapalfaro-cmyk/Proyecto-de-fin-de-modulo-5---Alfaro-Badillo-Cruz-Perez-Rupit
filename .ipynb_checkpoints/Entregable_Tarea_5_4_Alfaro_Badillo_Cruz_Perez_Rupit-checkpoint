@@ -1,0 +1,17 @@
+## Contaminación Atmosférica y Calidad del Aire (PM2.5)
+
+# Optimización de Funciones de Pérdida 
+RÚBRICA: 15% Demostración empírica del uso de optimización MAE vs MSE (en regresión) o manejo de hiperparámetros de pérdida/pesos (en clasificación).
+
+# Resumen de la programación realizada en este código
+PENDIENTE
+
+# Incluir librerías necesarias para procesamiento y graficación
+import pandas as pd # Manejo de datos en tablas
+import numpy as np # Operaciones numéricas
+import matplotlib.pyplot as plt  # Gráficas
+import seaborn as sns  # Gráficas más avanzadas
+from sklearn.experimental import enable_iterative_imputer
+from sklearn.preprocessing import OneHotEncoder, MinMaxScaler, StandardScaler, RobustScaler
+from sklearn.impute import SimpleImputer, KNNImputer, IterativeImputer
+from sklearn.compose import ColumnTransformer
