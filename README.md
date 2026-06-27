@@ -9,6 +9,15 @@ Beijing PM2.5 Data (UCI).
 Link de explicación
 https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data?utm_source=chatgpt.com
 
+## Archivos Entregables y Programación
+ContaminaciónPM25_Alfaro_Badillo_Cruz_Perez_Rupit_compressed: zip que contiene la pfresentación con los resultados de los modelos. 
+Entregable_Tarea_5_1 : Programación para la Exploración y Preprocesamiento de la base de datos original
+Entregable_Tarea_5_2 : Programación para la creación de Modelos Base y Regularización
+Entregable_Tarea_5_3A : Programación que corre los Modelos de Ensamble y Redes de manera "manua" o paso a paso
+Entregable_Tarea_5_Todos_conLags / Enregable_conLags : Programación que corre todos los puntos de la rúbrica usando Pipelines, considerando usar la variable PM2.5 en lag 1, 2 y 24 dentro de tddos los modelo
+Entregable_Tarea_5_Todos_sinLags / Entregable_sinLags: Programación que corre todos los puntos de la rúbrica usando Pipelines, usando solo las variables metereológicas en los modelos
+beiging+pm2+5+data / PRSA_dta_2010.1.1-204.12.31: Base de datos original en zip y csv
+
 ## Modelos:
 Regresión con una fuerte componente de dependencia temporal. Aunque no usen modelos autoregresivos formales (ARIMA), deberán construir modelos (como Random Forest o un MLP) utilizando rezagos (lags) de variables climáticas, minimizando el MSE por la naturaleza continua de la dispersión de fluidos.goog_276841544
 
@@ -56,11 +65,5 @@ Para ajustarse a los tiempos limitados de profesionales en activo, la rúbrica v
 
 5. Interpretación y Juicio 25% Comparativa métrica final. El equipo no solo indica "qué modelo ganó", sino que explica por qué ese algoritmo superó a los demás.
 
-## Entregables y Programación
-: zip Contiene la pfresentación
-Entregable_Tarea_5_1 :
-Entregable_Tarea_5_1 :
-Entregable_Tarea_5_1 :
-Entregable_Tarea_5_1 :
-Entregable_Tarea_5_1 :
+
 Entregable_Tarea_5_1 :
