@@ -56,3 +56,11 @@ Para ajustarse a los tiempos limitados de profesionales en activo, la rúbrica v
 
 5. Interpretación y Juicio 25% Comparativa métrica final. El equipo no solo indica "qué modelo ganó", sino que explica por qué ese algoritmo superó a los demás.
 
+## Entregables y Programación
+: zip Contiene la pfresentación
+Entregable_Tarea_5_1 :
+Entregable_Tarea_5_1 :
+Entregable_Tarea_5_1 :
+Entregable_Tarea_5_1 :
+Entregable_Tarea_5_1 :
+Entregable_Tarea_5_1 :
